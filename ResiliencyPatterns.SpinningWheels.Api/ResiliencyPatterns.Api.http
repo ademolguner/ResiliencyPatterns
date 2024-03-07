@@ -1,0 +1,6 @@
+@ResiliencyPatterns.Api_HostAddress = http://localhost:1938
+
+GET {{ResiliencyPatterns.Api_HostAddress}}/api/user/balance?userId=f8ccbdc5-2d5c-4582-b878-d12dd96c901f
+Accept: */*
+
+###
